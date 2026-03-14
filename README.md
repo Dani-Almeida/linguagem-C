@@ -1,5 +1,7 @@
 # linguagem-C
-Calcula IMC
+//Programa desenvolvido em Dev C++ para Calcular o IMC(Índice de Massa Corporal).
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>

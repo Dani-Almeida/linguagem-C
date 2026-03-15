@@ -1,4 +1,4 @@
-# linguagem-C
+# linguagem C
 //Programa desenvolvido em visual Code para Calcular o IMC(Índice de Massa Corporal).
 
 
